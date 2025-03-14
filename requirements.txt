@@ -1,0 +1,12 @@
+streamlit
+numpy
+langchain
+langchain-community
+langchain-experimental
+pdfplumber
+faiss-cpu
+sentence-transformers>=2.2.2
+huggingface-hub
+ollama
+transformers
+rank_bm25
